@@ -1,3 +1,0 @@
-Line 1: Python file handling
-Line 2: Writing to a file
-Line 3: This line was appended
